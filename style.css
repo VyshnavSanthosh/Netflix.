@@ -119,6 +119,7 @@ nav option{
 .img2-col{
     flex-basis: 50%;
     margin-bottom: 20px;
+    margin-top: -10rem;
 }
 .img-col img{
     display: block;
