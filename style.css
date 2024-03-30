@@ -105,6 +105,8 @@ nav option{
     align-items: center;
     flex-wrap: wrap;
     padding: 50px 0;
+    margin-bottom: 6rem;
+    margin-top: 4rem;
 }
 .text-column{
     flex-basis: 50%;
